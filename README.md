@@ -5,13 +5,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubhammanuwas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&show_icons=true">
-  </a>
-</p>
-
-
 Some facts about me, that I'd like to share! 🙂
 - 💻 always excited about **delivering software that can benefit many**
   - 🍥 how about **creating technologies** and not just solutions?
@@ -28,10 +21,7 @@ While AFK-ing, I like to
 - 🔑: focus, simplicity
 - 💖: coffee, open source
 
-
-
-https://www.linkedin.com/in/shubhammanuwas/
-
+\
 
 ### Connect with me
 <p align="left">
