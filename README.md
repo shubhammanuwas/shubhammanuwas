@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gavish.</h1>
+<h1 align="center">Hi, I'm Shubham.</h1>
 
 <p align="center">
   Software developer and a technology enthusiast. ⌨️, 👨🏻‍💻
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api?username=gavishpoddar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhammanuwas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&show_icons=true">
   </a>
 </p>
 
