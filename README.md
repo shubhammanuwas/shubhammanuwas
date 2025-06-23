@@ -21,8 +21,6 @@ While AFK-ing, I like to
 - 🔑: focus, simplicity
 - 💖: coffee, open source
 
-\
-
 ### Connect with me
 <p align="left">
     <a href="https://www.linkedin.com/in/shubhammanuwas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhammanuwas" height="30" width="40" /></a>
